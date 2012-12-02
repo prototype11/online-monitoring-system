@@ -1,5 +1,5 @@
 <div id="footnotes" class="col span-12">
-	<p>Copyright &copy; 2004&ndash;2012. All rights reserved.</p>
+	<p>Copyright &copy; 2012. All rights reserved.</p>
 	<p> This Web Site is proudly powered <span class="low">by</span> Team DELTA</a></p>
 </div>
 </div>
