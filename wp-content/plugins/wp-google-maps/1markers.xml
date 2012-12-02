@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>House # 84 Block E Model Town Lahore Pakistan</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>31.4860828</lat>
+    <lng>74.31667330000005</lng>
+    <anim></anim>
+    <infoopen></infoopen>
+  </marker>
+  <marker>
+    <marker_id>3</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>House # 100 Shadman Lahore</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>31.5325246</lat>
+    <lng>74.32807419999995</lng>
+    <anim></anim>
+    <infoopen></infoopen>
+  </marker>
+</markers>
